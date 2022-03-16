@@ -1,0 +1,30 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.post {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.post img {
+    height: 50vh;
+    object-fit: cover;
+}
+
+p {
+    text-align: justify;
+}
+
+.header-img img {
+    height: 5vh;
+}
+
+.cover {
+    object-fit: cover;
+}
